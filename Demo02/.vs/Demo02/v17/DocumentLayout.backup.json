@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\silhu\\source\\repos\\Demo02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42BE6852-9F21-4EF4-8FCA-6F7A65A809F7}|MyLibrary\\MyLibrary.csproj|c:\\users\\silhu\\source\\repos\\demo02\\mylibrary\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42BE6852-9F21-4EF4-8FCA-6F7A65A809F7}|MyLibrary\\MyLibrary.csproj|solutionrelative:mylibrary\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BE6852-9F21-4EF4-8FCA-6F7A65A809F7}|MyLibrary\\MyLibrary.csproj|c:\\users\\silhu\\source\\repos\\demo02\\mylibrary\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42BE6852-9F21-4EF4-8FCA-6F7A65A809F7}|MyLibrary\\MyLibrary.csproj|solutionrelative:mylibrary\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE9D627-9407-4CB4-86C6-B9B6FC752AAD}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\silhu\\source\\repos\\demo02\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE9D627-9407-4CB4-86C6-B9B6FC752AAD}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BE6852-9F21-4EF4-8FCA-6F7A65A809F7}|MyLibrary\\MyLibrary.csproj|c:\\users\\silhu\\source\\repos\\demo02\\mylibrary\\employec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42BE6852-9F21-4EF4-8FCA-6F7A65A809F7}|MyLibrary\\MyLibrary.csproj|solutionrelative:mylibrary\\employec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\silhu\\source\\repos\\Demo02\\MyLibrary\\Book.cs",
+              "RelativeDocumentMoniker": "MyLibrary\\Book.cs",
+              "ToolTip": "C:\\Users\\silhu\\source\\repos\\Demo02\\MyLibrary\\Book.cs",
+              "RelativeToolTip": "MyLibrary\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T01:43:05.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\silhu\\source\\repos\\Demo02\\MyLibrary\\Product.cs",
+              "RelativeDocumentMoniker": "MyLibrary\\Product.cs",
+              "ToolTip": "C:\\Users\\silhu\\source\\repos\\Demo02\\MyLibrary\\Product.cs",
+              "RelativeToolTip": "MyLibrary\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T01:42:53.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\silhu\\source\\repos\\Demo02\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\silhu\\source\\repos\\Demo02\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T01:27:56.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employec.cs",
+              "DocumentMoniker": "C:\\Users\\silhu\\source\\repos\\Demo02\\MyLibrary\\Employec.cs",
+              "RelativeDocumentMoniker": "MyLibrary\\Employec.cs",
+              "ToolTip": "C:\\Users\\silhu\\source\\repos\\Demo02\\MyLibrary\\Employec.cs",
+              "RelativeToolTip": "MyLibrary\\Employec.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T01:11:10.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

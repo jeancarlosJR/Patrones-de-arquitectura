@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zNAPw1eypzE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\silhu\\source\\repos\\Demo01\\MyConsoleApp\\MyConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\silhu\\.nuget\\packages\\figgle\\0.5.1\\figgle.0.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
